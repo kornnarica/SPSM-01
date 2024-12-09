@@ -1,4 +1,4 @@
-x = int(input('number now'))
+x = int(input('number now...'))
 
 if x >= 10:
     print("skibidi")
